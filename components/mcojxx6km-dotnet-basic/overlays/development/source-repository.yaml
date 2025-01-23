@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mcojxx6km-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/mcojxx6km-dotnet-basic
